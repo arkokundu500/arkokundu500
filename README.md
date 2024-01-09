@@ -39,5 +39,7 @@
 <br>
 <div align = "centre">
 <img align="centre" alt="dino-game" width="800" height = "300" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
- <h1> </h1>
+ </div>
+ <div align="centre" text-size="100px">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> &nbsp; Building with Passion &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" />
 </div>
