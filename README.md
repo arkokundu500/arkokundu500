@@ -37,7 +37,7 @@
 <a href="https://leetcode.com/arkopowers/"><img width="49%" src="https://leetcode.card.workers.dev/arkopowers?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></img></a>
 </div>
 <br>
-<div>
-<h1> It's dino time :)</h1>
+<div align = "centre">
 <img align="centre" alt="dino-game" width="800" height = "300" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+ <h1> </h1>
 </div>
