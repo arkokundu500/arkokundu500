@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying Electronics and Communication Engineering from **Kalyani Government Engineering College**
 
-- 🌱 I’m currently learning **Django, Machine Learning**
+- 🌱 I’m currently learning **REACTJS & Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-arko.netlify.app/](https://portfolio-arko.netlify.app/)
 
