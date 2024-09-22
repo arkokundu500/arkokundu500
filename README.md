@@ -34,7 +34,7 @@
 <div align="center">
 <a href="https://github.com/arkokundu500"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkokundu500&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=arkokundu500&show_icons=true&locale=en&rank_icon=github&theme=react" alt="arkokundu500"></img>
-<a href="https://leetcode.com/arkopowers/"><img width="49%" src="https://leetcard.jacoblin.cool/arkopowers?ext=contest"></img></a>
+<a href="https://leetcode.com/arkopowers/"><img width="49%" src="https://leetcard.jacoblin.cool/arkopowers?theme=unicorn&ext=contest&font=montserrat"></img></a>
 <a href="https://www.geeksforgeeks.org/user/arkokungfq3/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arkokungfq3" alt="GFG stats"/></a>
 </div>
 
