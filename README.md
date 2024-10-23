@@ -45,4 +45,3 @@
  <div align="center" font-size="50px">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> &nbsp; Building with Passion &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" />
 </div>
-![Snake animation](https://raw.githubusercontent.com/arkokundu500/arkokundu500/output/github-contribution-grid-snake-dark.svg)
