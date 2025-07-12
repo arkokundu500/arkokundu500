@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently studying Electronics and Communication Engineering from **Kalyani Government Engineering College**
 
-- 🌱 I’m currently learning **REACTJS & Deep Learning**
+- 🌱 I’m currently learning **GENERATIVE AI and Docker**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-arko.netlify.app/](https://portfolio-arko.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arkokundu2025xxx.vercel.app/](https://arkokundu2025xxx.vercel.app/)
 
-- 💬 Ask me about **Cloud Computing, Java, hackathons,**
+- 💬 Ask me about **DSA, hackathons and E Football**
 
 - 📫 How to reach me **arkokundu500@gmail.com**
 
